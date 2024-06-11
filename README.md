@@ -14,7 +14,7 @@ Here are the goals set in order to complete this project:
 These are sections that currently state whether they are complete or not:
 1. Section 1: Header and Hero - <span style="color:green">Complete</span>
 2. Section 2: Information - <span style="color:green">Complete</span>
-3. Section 3: Quote - <span style="color:red">In Progress</span>
-4. Section 4: Call to Action - <span style="color:red">Not Started</span>
+3. Section 3: Quote - <span style="color:red">Complete</span>
+4. Section 4: Call to Action - <span style="color:red">In Progress</span>
 5. Section 5: Footer - <span style="color:red">Not Started</span>
 6. Section 6: Colors and Fonts Page - <span style="color:red">Not Started</span>
