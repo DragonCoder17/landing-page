@@ -121,7 +121,7 @@ h1 {
 
 .info-box {
     border-color: #3882f6;
-    border-radius: 8px;
+    border-radius: 12px;
     border-style: solid;
     border-width: 4px;
     width: 150px;
@@ -157,4 +157,36 @@ h1 {
     font-weight: bold;
     display: flex;
     justify-content: flex-end;
+}
+
+.section4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 0;
+}
+
+.action-container {
+    background-color: #3882f6;
+    width: 800px;
+    padding: 40px 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+}
+
+.action-header {
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.action-text {
+    color: #f9faf8;
+}
+
+.action-button {
+    border: #f9faf8;
+    border-style: solid;
 }
