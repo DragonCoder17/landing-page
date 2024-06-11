@@ -101,7 +101,7 @@ h1 {
 .info-header{
     font-size: 36px;
     font-weight: 900;
-    margin: 30px 0;
+    margin: 40px 0;
 }
 
 .info-container {
@@ -131,4 +131,30 @@ h1 {
 
 .info-text {
     color: #6d747d;
+}
+
+.section3 {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 0;
+}
+
+.quote-container {
+    width: 800px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+}
+
+.quote-name {
+    font-size: 24px;
+    font-weight: bold;
+    display: flex;
+    justify-content: flex-end;
 }
