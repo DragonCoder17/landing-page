@@ -16,5 +16,5 @@ These are sections that currently state whether they are complete or not:
 2. Section 2: Information - <span style="color:green">Complete</span>
 3. Section 3: Quote - <span style="color:green">Complete</span>
 4. Section 4: Call to Action - <span style="color:green">Complete</span>
-5. Section 5: Footer - <span style="color:yellow">In Progress</span>
-6. Section 6: Colors and Fonts Page - <span style="color:red">Not Started</span>
+5. Section 5: Footer - <span style="color:green">Complete</span>
+6. Section 6: Colors and Fonts Page - <span style="color:yellow">In Progress</span>
