@@ -190,3 +190,12 @@ h1 {
     border: #f9faf8;
     border-style: solid;
 }
+
+.footer {
+    background-color: #1f2937;
+    height: 90px;
+    color: #f9faf8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
