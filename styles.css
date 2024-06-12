@@ -199,3 +199,64 @@ h1 {
     align-items: center;
     justify-content: center;
 }
+
+.color-font-header {
+    color: #3882f6;
+    font-size: 48px;
+    font-weight: 900;
+    margin: 5px 20px;
+}
+
+.color-font-box, .info-box2{
+    font-size: 16px;
+    margin: 20px;
+    padding-bottom: 10px;
+}
+
+#color1 {
+    font-size: 24px;
+}
+
+#color2 {
+    color: #e5e7eb;
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+
+#color3 {
+    font-size: 24px;
+    font-weight: bolder;
+    padding-bottom: 10px;
+}
+
+#color4 {
+    color: #3882f6;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+#color5 {
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+#color6 {
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+#light-italic {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    padding-bottom: 20px;
+}
+
+#extra-bold1 {
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.quote-box {
+    background-color: #e5e7eb;
+}
